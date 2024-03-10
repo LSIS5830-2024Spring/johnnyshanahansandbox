@@ -19,6 +19,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
 This specific site was developed on 3/10/24 by Johnny Shanahan as a demo for an LSIS 5830 assignment. It will not be updated in the future.
