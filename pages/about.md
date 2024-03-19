@@ -19,4 +19,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images
 
-This specific site was developed on 3/10/24 by Johnny Shanahan as a demo for an LSIS 5830 assignment. It will not be updated in the future.
+This specific site was developed on 3/10/24 by Johnny Shanahan as a demo for an LSIS 5830 assignment. It contains images of his and his friends' discs and does not represent their combined current disc collection (two of these are now at the bottom of a lake).
