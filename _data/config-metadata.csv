@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
 title,Disc Name,
-creator,Creator,
-date,Date Created,
-description,Description,
+creator,Manufacturer,
+date,Date Purchased,
+description,Full Name,
 subject,Subjects,true
-location,Location
+location,Store Bought From
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Picture Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
