@@ -5,11 +5,7 @@ date,Date Purchased,
 description,Full Name,
 subject,Subjects,true
 location,Store Bought From
-latitude,Latitude
-longitude,Longitude
 source,Picture Source
-identifier,Source Identifier,,
+identifier,Project Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
